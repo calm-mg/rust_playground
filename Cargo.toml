@@ -1,7 +1,7 @@
 [package]
-name = "rust"
+name = "pacman-squares"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
-bevy = "0.13"
+bevy = "0.14"
